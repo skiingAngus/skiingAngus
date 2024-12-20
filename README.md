@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skiingAngus
 - 👀 I’m interested in coding, general relativity, quantum physics, maths, sports(MTB, running, sailing, climbing), and much more!
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C
 - ⚡ Fun fact: Linux (+ GNU) is obviously the best OS
 
 <!---

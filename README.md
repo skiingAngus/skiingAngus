@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @skiingAngus
-- 👀 I’m interested in coding, general relativity, quantum physics, maths, sports(MTB, running, sailing, climbing), and much more!
-- 🌱 I’m currently learning C
-- ⚡ Fun fact: Linux (+ GNU) is obviously the best OS
+- I don't waste time on descriptions
 
 <!---
 skiingAngus/skiingAngus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
